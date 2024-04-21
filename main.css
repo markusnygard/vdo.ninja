@@ -1,4 +1,9 @@
 :root {
+	
+	/* -- Yle-colors */
+	--yle-tuurkoosi: #00b4c8;
+	--yle-harmaa: #bbbcbc;
+
 	/* Discord Greys - Dark to Lighter */
 	--discord-grey-0: #121212;
 	--discord-grey-1: #1e1f22;
